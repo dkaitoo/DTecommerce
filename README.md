@@ -4,7 +4,6 @@ Thành viên:
 	2. Phan Quang Thái - 51900214
 
 Link demo: https://youtu.be/-FvEQdH5UhM
-Link hosting: https://dtecommerce.shop
 
 Tài khoản admin
 	Email: admin@gmail.com
