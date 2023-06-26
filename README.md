@@ -24,7 +24,7 @@ Tài khoản nhà bán hàng
     
 Tài khoản người dùng
 
-	Email: user1@gmail.com (X=1,2,3)
+	Email: userX@gmail.com (X=1,2,3)
     
 	Password: 123456789
 
