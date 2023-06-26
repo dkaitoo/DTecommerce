@@ -1,5 +1,7 @@
 DỰ ÁN CÔNG NGHỆ THÔNG TIN 2 - ĐỢT 1B/2022-2023
 
+I would like to say thank @Thai for the bottom of my heart for this project, sincerely =))
+
 Thành viên:
 
 	1. Nguyễn Thanh Duy - 51900053
